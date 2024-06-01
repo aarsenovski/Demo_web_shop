@@ -1,0 +1,10 @@
+{
+  "name": "Demo_web_shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrej <a.arsenovski@labdigital.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  }
+}
